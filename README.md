@@ -78,5 +78,6 @@ NHP ileum epithelial | 1214 | 24945
 
 ## References 
 * [Shalek Lab Alexandria Project](http://shaleklab.com/resource/covid-19-resources/)
-* [SARS-CoV-2 Receptor ACE2 Is an InterferonStimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930500-6)
+* [SARS-CoV-2 Receptor ACE2 Is an Interferon Stimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930500-6)
+* [Ziegler et al Data](https://drive.google.com/drive/folders/1bxCIqNeZ7wLuVOT16gphwj98_cc9KhrV) 
 
