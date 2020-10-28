@@ -13,12 +13,12 @@
 
 <img src="Images/ace 2.png" width="400" height="400">  <img src="Images/im-235181.gif" width="400" height="400">   
 
-***Figure 1.***  *Depiction of cell surface receptor and protease activity for SARS-CoV-2 entry inside host cell*  [**[1](https://www.invivogen.com/ace2-and-tmprss2-expression-vectors)**] <br/>
+***Figure 1.***  *Depiction of cell surface receptor and protease activity for SARS-CoV-2 entry inside host cell*  [**[1](https://www.invivogen.com/ace2-and-tmprss2-expression-vectors)**] [**[2](https://www.wsj.com/articles/really-diabolical-inside-the-coronavirus-that-outsmarted-science-11599498840)**] <br/>
 
 
 <img src="Images/viral entry.jpg" width="1200" height="400">
 
-***Figure 2***. (A) *Spike proteins on the surface of the coronavirus bind to angiotensin-converting enzyme 2 (ACE-2) receptors on the surface of the target cell; (B) The type II transmembrane serine protease (TMPRSS2) binds to and cleaves the ACE-2 receptor. In the process, the spike protein is activated; (C) Cleaved ACE-2 and activated spike protein facilitate viral entry. TMPRSS2 expression increases cellular uptake of the coronavirus* [**[2](https://www.mdpi.com/2076-0817/9/3/231/htm#)**]
+***Figure 2***. (A) *Spike proteins on the surface of the coronavirus bind to angiotensin-converting enzyme 2 (ACE-2) receptors on the surface of the target cell; (B) The type II transmembrane serine protease (TMPRSS2) binds to and cleaves the ACE-2 receptor. In the process, the spike protein is activated; (C) Cleaved ACE-2 and activated spike protein facilitate viral entry. TMPRSS2 expression increases cellular uptake of the coronavirus* [**[3](https://www.mdpi.com/2076-0817/9/3/231/htm#)**]
 
 
 **Datasets used:**
@@ -76,6 +76,7 @@ NHP ileum epithelial | 1214 | 24945
 
 
 
-Reference 
-[Shalek Lab Alexandria Project](http://shaleklab.com/resource/covid-19-resources/)
+## References 
+* [Shalek Lab Alexandria Project](http://shaleklab.com/resource/covid-19-resources/)
+* [SARS-CoV-2 Receptor ACE2 Is an InterferonStimulated Gene in Human Airway Epithelial Cells and Is Detected in Specific Cell Subsets across Tissues](https://www.cell.com/action/showPdf?pii=S0092-8674%2820%2930500-6)
 
